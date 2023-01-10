@@ -1,2 +1,2 @@
-# Clean.Site
-Created the blog project using umbraco v8
+# CleanBlog-Umbraco-Project-V10
+Created the blog project using umbraco v10
